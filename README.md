@@ -169,7 +169,8 @@ reach me **shaydullayevdeveloper@gmail.com**
     alt="rasulbek19"
   />
 </p>
-<p>
+<!-- <p>
   <img align="left" src="
 https://github-readme-stats.vercel.app/api/top-langs?username=sarah-hart-landolt&show_icons=true&theme=radical)"  />
-</p>
+</p> -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
