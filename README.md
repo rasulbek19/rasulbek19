@@ -15,12 +15,10 @@
   />
 </p>
 
-- 👨‍💻 All of my projects are available at [soon...](soon...) 
-- 💬 Ask me about
-**react, javascript, anything related to the Frontend development** 
-- 📫 How to
-reach me **shaydullayevdeveloper@gmail.com** 
-- 📄 Know about my experiences [soon...](soon...)
+- 👨‍💻 All of my projects are available at [soon...](soon...) - 💬 Ask me about
+**react, javascript, anything related to the Frontend development** - 📫 How to
+reach me **shaydullayevdeveloper@gmail.com** - 📄 Know about my experiences
+[soon...](soon...)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,6 +49,12 @@ reach me **shaydullayevdeveloper@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+![image](https://user-images.githubusercontent.com/94694648/194936804-8b158232-1e1e-4368-904e-94c1e7571539.png)
+![image](https://user-images.githubusercontent.com/94694648/194936834-7b9cf856-a040-483e-a84b-4dff3bb5068b.png)
+![image](https://user-images.githubusercontent.com/94694648/194936854-deb99caf-ea4f-4263-903c-3512f6f0c778.png)
+![image](https://user-images.githubusercontent.com/94694648/194936544-28a489fd-6da6-4281-9c5f-189c48f3214e.png)
+![image](https://user-images.githubusercontent.com/94694648/194936883-3583d7dc-b2dd-4343-a8b2-456c10ccc11c.png)
+![image](https://user-images.githubusercontent.com/94694648/194936902-40abbaac-4a2a-4ab1-ba0c-76be7414f062.png)
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
@@ -169,7 +173,3 @@ reach me **shaydullayevdeveloper@gmail.com**
     alt="rasulbek19"
   />
 </p>
-<!-- <p>
-  <img align="left" src="
-https://github-readme-stats.vercel.app/api/top-langs?username=sarah-hart-landolt&show_icons=true&theme=radical)"  />
-</p> -->
