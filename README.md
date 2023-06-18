@@ -1,6 +1,9 @@
 ### Hi there, I'm <a href="https://t.me/shaydullayev123" target="_blank">Rasulbek</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### How to reach me: <a href="shaydullayevdeveloper@gmail.com">shaydullayevdeveloper@gmail.com</a>
+<a href="https://www.instagram.com/therasulbek19/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
+<a href="https://t.me/shaydullayev123" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
+<a href="https://www.linkedin.com/in/shaydullayev123/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%231877F2.svg?&style=flat-square&logo=LinkedIn&logoColor=white%22%20alt=%22LinkedIn"></a>
 
 - 🔭 I’m currently learning on Typescript;
 - 💬 Ask me about Html, Css, Scss, BS5, Tailwindcss, JavaScript, React, 
