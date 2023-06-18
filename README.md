@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+[![MasterHead](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-2.png)]
 <h1 align="center">Hi 👋, I'm Shaydullayev Rasulbek</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 <img
@@ -15,10 +15,12 @@
   />
 </p>
 
-- 👨‍💻 All of my projects are available at [soon...](soon...) - 💬 Ask me about
-**react, javascript, anything related to the Frontend development** - 📫 How to
-reach me **shaydullayevdeveloper@gmail.com** - 📄 Know about my experiences
-[soon...](soon...)
+- 👨‍💻 All of my projects are available at [soon...](soon...) 
+- 💬 Ask me about
+**react, javascript, anything related to the Frontend development** 
+- 📫 How to
+reach me **shaydullayevdeveloper@gmail.com** 
+- 📄 Know about my experiences [soon...](soon...)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
